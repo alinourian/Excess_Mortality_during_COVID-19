@@ -1,5 +1,5 @@
 # Excess_Mortality_during_COVID-19
-Estimates of excess deaths during COIVD-19 in all provinces of Iran using R.
+Estimates of excess deaths during COVID-19 in all provinces of Iran using R.
 
 
 Heat map of the intensity and weakness of COVID-19 in the provinces of the country:
